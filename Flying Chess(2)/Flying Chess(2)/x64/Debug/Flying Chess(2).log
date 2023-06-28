@@ -1,0 +1,215 @@
+﻿  flying chess2.cpp
+  源.cpp
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(16,23): error C2011: “square”:“struct”类型重定义
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(25,29): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(26,29): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(27,29): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(28,29): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(29,30): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(29,61): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(30,30): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(30,61): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(31,30): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(31,61): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(32,30): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(32,61): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(33,30): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(33,61): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(34,30): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(34,61): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(35,30): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(35,61): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(36,30): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(36,61): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(37,32): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(37,65): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(38,32): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(38,65): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(39,32): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(40,32): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(40,65): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(41,32): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(41,65): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(42,32): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(43,32): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(43,65): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(44,32): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(44,65): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(45,32): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(46,32): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(46,65): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(47,32): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(47,65): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(48,32): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(50,9): error C2084: 函数“square *Createlist(void)”已有主体
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(17): message : 参见“Createlist”的前一个定义
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(54,25): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(57,5): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(58,5): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(60,5): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(65,12): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(66,10): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(67,6): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(68,5): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(70,5): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(72,5): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(76,10): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(78,8): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(80,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(84,7): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(85,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(85,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(85,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(86,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(86,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(86,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(87,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(87,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(87,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(88,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(88,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(88,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(89,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(89,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(89,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(90,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(90,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(90,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(91,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(91,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(91,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(92,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(92,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(92,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(93,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(93,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(93,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(94,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(94,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(94,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(95,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(95,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(95,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(96,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(96,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(96,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(97,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(97,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(97,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(98,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(98,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(98,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(99,3): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(99,15): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(99,31): error C2027: 使用了未定义类型“square”
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(9): message : 参见“square”的声明
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\源.cpp(99,31): fatal  error C1003: 错误计数超过 100；正在停止编译
+  正在生成代码...
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(24): error C4716: “Createplane”: 必须返回一个值
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(17): error C4716: “Createlist”: 必须返回一个值
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(25): error C4716: “onrunway”: 必须返回一个值
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(26): error C4716: “getDieRes”: 必须返回一个值
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(29): error C4716: “check_allout”: 必须返回一个值
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(32): error C4716: “check_canmove”: 必须返回一个值
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(27): error C4716: “getDieResAI”: 必须返回一个值
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(28): error C4716: “judge”: 必须返回一个值
+E:\Users\高歌\source\repos\Flying Chess(2)\Flying Chess(2)\flying chess.h(30): error C4716: “check_oneout”: 必须返回一个值

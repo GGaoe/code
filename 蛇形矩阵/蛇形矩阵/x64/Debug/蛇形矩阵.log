@@ -1,0 +1,32 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(10,20): error C2062: 意外的类型“int”
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(10,33): warning C4552: ”<=“: 未使用表达式结果
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(10,44): error C2065: “j”: 未声明的标识符
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(10,47): error C2059: 语法错误:“)”
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(11,10): error C2065: “j”: 未声明的标识符
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(11,38): error C2059: 语法错误:“;”
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(14,3): error C2181: 没有匹配 if 的非法 else
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(15,20): error C2062: 意外的类型“int”
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(15,31): error C2065: “j”: 未声明的标识符
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(15,44): error C2065: “j”: 未声明的标识符
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(15,47): error C2059: 语法错误:“)”
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(16,10): error C2065: “j”: 未声明的标识符
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(16,33): error C2065: “j”: 未声明的标识符
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(16,38): error C2059: 语法错误:“;”
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(17,15): error C2044: 非法 continue
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(19,2): error C2059: 语法错误:“}”
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(19,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(21,2): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(21,20): error C2143: 语法错误: 缺少“;”(在“<=”的前面)
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(21,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(21,31): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(21,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(21,30): error C2086: “int i”: 重定义
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(21): message : 参见“i”的声明
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(21,33): error C2059: 语法错误:“)”
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(21,35): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(21,35): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(24,11): warning C4129: “d”: 不可识别的字符转义序列
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(25,3): error C2059: 语法错误:“return”
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(26,1): error C2059: 语法错误:“}”
+E:\Users\高歌\source\repos\蛇形矩阵\蛇形矩阵\源.cpp(26,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)

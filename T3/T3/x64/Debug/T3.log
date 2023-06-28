@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\T3\T3\源.cpp(20,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\T3\T3\源.cpp(31,16): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  T3.vcxproj -> E:\Users\高歌\source\repos\T3\x64\Debug\T3.exe

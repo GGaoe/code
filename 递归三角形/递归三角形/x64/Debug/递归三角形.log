@@ -1,0 +1,8 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\递归三角形\递归三角形\源.cpp(12,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\递归三角形\递归三角形\源.cpp(12,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\递归三角形\递归三角形\源.cpp(13,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\递归三角形\递归三角形\源.cpp(19,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\递归三角形\递归三角形\源.cpp(21,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\递归三角形\递归三角形\源.cpp(15): warning C4715: “f”: 不是所有的控件路径都返回值
+  递归三角形.vcxproj -> E:\Users\高歌\source\repos\递归三角形\x64\Debug\递归三角形.exe

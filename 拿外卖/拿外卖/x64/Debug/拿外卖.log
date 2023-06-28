@@ -1,0 +1,6 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\拿外卖\拿外卖\源.cpp(21,23): error C2601: “go_up”: 本地函数定义是非法的
+E:\Users\高歌\source\repos\拿外卖\拿外卖\源.cpp(10): message : 此行有一个“{”没有匹配项
+E:\Users\高歌\source\repos\拿外卖\拿外卖\源.cpp(34,12): error C2601: “main”: 本地函数定义是非法的
+E:\Users\高歌\source\repos\拿外卖\拿外卖\源.cpp(10): message : 此行有一个“{”没有匹配项
+E:\Users\高歌\source\repos\拿外卖\拿外卖\源.cpp(10): fatal  error C1075: “{”: 未找到匹配令牌

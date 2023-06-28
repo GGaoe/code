@@ -1,0 +1,15 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\签到题\签到题\源.cpp(282,26): warning C4244: “return”: 从“ull”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\签到题\签到题\源.cpp(283,31): warning C4244: “return”: 从“ull”转换到“unsigned int”，可能丢失数据
+E:\Users\高歌\source\repos\签到题\签到题\源.cpp(286,28): warning C4244: “return”: 从“ull”转换到“short”，可能丢失数据
+E:\Users\高歌\source\repos\签到题\签到题\源.cpp(287,37): warning C4244: “return”: 从“ull”转换到“unsigned short”，可能丢失数据
+E:\Users\高歌\source\repos\签到题\签到题\源.cpp(288,27): warning C4244: “return”: 从“ull”转换到“char”，可能丢失数据
+E:\Users\高歌\source\repos\签到题\签到题\源.cpp(289,36): warning C4244: “return”: 从“ull”转换到“unsigned char”，可能丢失数据
+E:\Users\高歌\source\repos\签到题\签到题\源.cpp(334,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\签到题\签到题\源.cpp(352,54): warning C4554: “<<”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\Users\高歌\source\repos\签到题\签到题\源.cpp(356,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\签到题\签到题\源.cpp(365,22): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\Users\高歌\source\repos\签到题\签到题\源.cpp(418,17): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\签到题\签到题\源.cpp(434,28): warning C4244: “=”: 从“ull”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\签到题\签到题\源.cpp(438,39): warning C4244: “=”: 从“ull”转换到“int”，可能丢失数据
+  签到题.vcxproj -> E:\Users\高歌\source\repos\签到题\x64\Debug\签到题.exe

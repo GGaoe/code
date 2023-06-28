@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\大整数加减法\大整数加减法\源.cpp(112,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\大整数加减法\大整数加减法\源.cpp(113,24): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  大整数加减法.vcxproj -> E:\Users\高歌\source\repos\大整数加减法\x64\Debug\大整数加减法.exe

@@ -1,0 +1,2 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\REGEX\REGEX\源.cpp(9,13): error C4996: 'strrev': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strrev. See online help for details.

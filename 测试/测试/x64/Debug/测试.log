@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\测试\测试\源.cpp(45,28): error C4576: 后跟初始值设定项列表的带圆括号类型是一个非标准的显式类型转换语法
+E:\Users\高歌\source\repos\测试\测试\源.cpp(24,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Users\高歌\source\repos\测试\测试\源.cpp(165,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

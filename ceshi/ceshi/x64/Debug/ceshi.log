@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\ceshi\ceshi\源.cpp(51,7): warning C4101: “a”: 未引用的局部变量
+E:\Users\高歌\source\repos\ceshi\ceshi\源.cpp(50,7): warning C4101: “strr”: 未引用的局部变量
+  ceshi.vcxproj -> E:\Users\高歌\source\repos\ceshi\x64\Debug\ceshi.exe

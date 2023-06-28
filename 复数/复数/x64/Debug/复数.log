@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\复数\复数\源.cpp(7,6): warning C4101: “re”: 未引用的局部变量
+E:\Users\高歌\source\repos\复数\复数\源.cpp(7,10): warning C4101: “im”: 未引用的局部变量
+  复数.vcxproj -> E:\Users\高歌\source\repos\复数\x64\Debug\复数.exe

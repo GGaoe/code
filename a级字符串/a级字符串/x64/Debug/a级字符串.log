@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\a级字符串\a级字符串\源.cpp(49,6): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\a级字符串\a级字符串\源.cpp(50,46): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  a级字符串.vcxproj -> E:\Users\高歌\source\repos\a级字符串\x64\Debug\a级字符串.exe

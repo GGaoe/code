@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\get\get\源.cpp(15,30): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\get\get\源.cpp(33,18): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  get.vcxproj -> E:\Users\高歌\source\repos\get\x64\Debug\get.exe

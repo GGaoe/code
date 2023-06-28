@@ -1,0 +1,5 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\最长公共子序列\最长公共子序列\源.cpp(14,28): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\最长公共子序列\最长公共子序列\源.cpp(43,40): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\最长公共子序列\最长公共子序列\源.cpp(48,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  最长公共子序列.vcxproj -> E:\Users\高歌\source\repos\最长公共子序列\x64\Debug\最长公共子序列.exe

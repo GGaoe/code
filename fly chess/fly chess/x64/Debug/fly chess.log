@@ -1,0 +1,7 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\fly chess\fly chess\源.cpp(386,17): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Users\高歌\source\repos\fly chess\fly chess\源.cpp(432,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Users\高歌\source\repos\fly chess\fly chess\源.cpp(511): warning C4715: “check_oneout”: 不是所有的控件路径都返回值
+E:\Users\高歌\source\repos\fly chess\fly chess\源.cpp(613): warning C4715: “check_canmove”: 不是所有的控件路径都返回值
+E:\Users\高歌\source\repos\fly chess\fly chess\源.cpp(492): warning C4715: “check_allout”: 不是所有的控件路径都返回值
+  fly chess.vcxproj -> E:\Users\高歌\source\repos\fly chess\x64\Debug\fly chess.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "实况足球", "实况足球\实况足球.vcxproj", "{B8805E87-406B-4439-9007-440ECC0108E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8805E87-406B-4439-9007-440ECC0108E8}.Debug|x64.ActiveCfg = Debug|x64
+		{B8805E87-406B-4439-9007-440ECC0108E8}.Debug|x64.Build.0 = Debug|x64
+		{B8805E87-406B-4439-9007-440ECC0108E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{B8805E87-406B-4439-9007-440ECC0108E8}.Debug|x86.Build.0 = Debug|Win32
+		{B8805E87-406B-4439-9007-440ECC0108E8}.Release|x64.ActiveCfg = Release|x64
+		{B8805E87-406B-4439-9007-440ECC0108E8}.Release|x64.Build.0 = Release|x64
+		{B8805E87-406B-4439-9007-440ECC0108E8}.Release|x86.ActiveCfg = Release|Win32
+		{B8805E87-406B-4439-9007-440ECC0108E8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEAB67A9-75F4-4EC5-9A0B-A916646932B0}
+	EndGlobalSection
+EndGlobal

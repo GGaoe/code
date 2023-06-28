@@ -1,0 +1,31 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(13,20): error C2062: 意外的类型“int”
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(13,33): warning C4552: ”<=“: 未使用表达式结果
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(13,44): error C2065: “j”: 未声明的标识符
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(13,47): error C2059: 语法错误:“)”
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(14,10): error C2065: “j”: 未声明的标识符
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(14,38): error C2059: 语法错误:“;”
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(18,3): error C2181: 没有匹配 if 的非法 else
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(19,21): error C2062: 意外的类型“int”
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(19,32): error C2065: “j”: 未声明的标识符
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(19,45): error C2065: “j”: 未声明的标识符
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(19,48): error C2059: 语法错误:“)”
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(20,11): error C2065: “j”: 未声明的标识符
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(20,34): error C2065: “j”: 未声明的标识符
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(20,39): error C2059: 语法错误:“;”
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(22,15): error C2044: 非法 continue
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(24,2): error C2059: 语法错误:“}”
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(24,2): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(26,2): error C2143: 语法错误: 缺少“)”(在“;”的前面)
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(26,20): error C2143: 语法错误: 缺少“;”(在“<=”的前面)
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(26,20): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(26,31): error C2143: 语法错误: 缺少“;”(在“++”的前面)
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(26,31): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(26,30): error C2086: “int i”: 重定义
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(26): message : 参见“i”的声明
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(26,33): error C2059: 语法错误:“)”
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(26,35): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(26,35): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(31,2): error C2059: 语法错误:“return”
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(32,1): error C2059: 语法错误:“}”
+E:\Users\高歌\source\repos\collatz\collatz\源.cpp(32,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)

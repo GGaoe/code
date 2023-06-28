@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\分形\分形\源.cpp(26,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\分形\分形\源.cpp(18): warning C4715: “f”: 不是所有的控件路径都返回值
+  分形.vcxproj -> E:\Users\高歌\source\repos\分形\x64\Debug\分形.exe

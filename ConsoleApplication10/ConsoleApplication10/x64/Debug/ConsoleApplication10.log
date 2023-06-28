@@ -1,0 +1,8 @@
+﻿  ConsoleApplication10.cpp
+E:\Users\高歌\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(9,10): warning C4554: “^”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\Users\高歌\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(9,119): warning C4554: “^”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\Users\高歌\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(11,10): warning C4554: “^”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\Users\高歌\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(11,116): warning C4554: “^”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\Users\高歌\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(13,10): warning C4554: “^”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\Users\高歌\source\repos\ConsoleApplication10\ConsoleApplication10\ConsoleApplication10.cpp(13,116): warning C4554: “^”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  ConsoleApplication10.vcxproj -> E:\Users\高歌\source\repos\ConsoleApplication10\x64\Debug\ConsoleApplication10.exe
