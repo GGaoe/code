@@ -1,0 +1,5 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\加油\加油\源.cpp(7,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\加油\加油\源.cpp(8,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\加油\加油\源.cpp(10,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  加油.vcxproj -> E:\Users\高歌\source\repos\加油\x64\Debug\加油.exe

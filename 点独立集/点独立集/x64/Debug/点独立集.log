@@ -1,0 +1,3 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\点独立集\点独立集\源.cpp(43): warning C4715: “find_root”: 不是所有的控件路径都返回值
+  点独立集.vcxproj -> E:\Users\高歌\source\repos\点独立集\x64\Debug\点独立集.exe

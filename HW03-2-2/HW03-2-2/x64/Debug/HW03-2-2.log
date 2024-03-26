@@ -1,0 +1,5 @@
+﻿  源.cpp
+E:\Users\高歌\source\repos\HW03-2-2\HW03-2-2\源.cpp(13,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\HW03-2-2\HW03-2-2\源.cpp(43,9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+E:\Users\高歌\source\repos\HW03-2-2\HW03-2-2\源.cpp(47,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  HW03-2-2.vcxproj -> E:\Users\高歌\source\repos\HW03-2-2\x64\Debug\HW03-2-2.exe

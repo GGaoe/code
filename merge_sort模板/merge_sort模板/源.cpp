@@ -2,8 +2,8 @@
 using namespace std;
 const int maxn = 2e5 + 10;
 int n;
-int a[maxn];
-int sort[maxn];
+int a[maxn][2];
+int sort[maxn][2];
 long long ans = 0;
 void merge_sort(int l, int r) {
 	if (l == r)return;
@@ -13,20 +13,24 @@ void merge_sort(int l, int r) {
 	int ll = l, rr = mid + 1, point = l;
 	while (ll <= mid && rr <= r) {
 		if (a[ll] < a[rr]) {
-			sort[point++] = a[ll++];
+			sort[point][1] = ll;
+			sort[point++][0] = a[ll++][0];
 		}
 		else {
-			sort[point++] = a[rr++];
+			sort[point][1] = rr;
+			sort[point++][0] = a[rr++][0];
 		}
 	}
 	while (ll <= mid) {
-		sort[point++] = a[ll++];
+		sort[point++][0] = a[ll++][0];
 	}
 	while (rr <= r) {
-		sort[point++] = a[rr++];
+		sort[point][1] = rr;
+		sort[point++][0] = a[rr++][0];
 	}
 	for (int i = l; i <= r; i++) {
-		a[i] = sort[i];
+		a[i][1] = sort[i][1];
+		a[i][0] = sort[i][0];
 	}
 	return;
 }
